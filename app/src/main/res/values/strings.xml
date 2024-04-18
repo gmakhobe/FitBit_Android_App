@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FitLife</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="enter_nutritional_ngoals">Enter Nutritional\nGoals</string>
+    <string name="meal_name">Meal Name:</string>
+    <string name="meal_name_description">Type any name e.g \"Day 1 Meal\" it should be unique</string>
+    <string name="type">Type...</string>
+    <string name="description">Description</string>
+    <string name="description_description">Enter any item description, it could be name and date e.g \"Ate this meal 4th November\"</string>
+    <string name="colory_intake">Colory Intake</string>
+    <string name="colory_intake_description">How much calories in grams does your meal contains?</string>
+    <string name="protain_intake">Protain Intake</string>
+    <string name="protain_intake_description">How much Protains in grams does your meal contains?</string>
+    <string name="fat_intake">Fat Intake</string>
+    <string name="fat_intake_description">How much fat in grams does your meal contains?</string>
+    <string name="fiber_intake">Fiber Intake</string>
+    <string name="fiber_intake_description">How much fiber in grams does your meal contains?</string>
+    <string name="vitamin_intake">Vitamin Intake</string>
+    <string name="vitamin_intake_description">Select the dominant Vitamin in your food?</string>
+    <string name="insert">Insert</string>
+    <string name="view_nutritional_ngoals">View Nutritional\nGoals</string>
+    <string name="delete_items_in_nyour_nutritional_ngoals">Delete Items In\nYour Nutritional\nGoals</string>
+    <string name="select_an_item_to_delete">Select an item to delete</string>
+    <string name="add_a_nutrition_item_insert">Add a Nutrition Goal</string>
+    <string name="remove_a_nutrition_item_delete">Remove a Nutrition Item</string>
+    <string name="view_nutrition_goal_items_view">View | Delete Nutrition Goal</string>
+</resources>
