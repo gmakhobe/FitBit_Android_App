@@ -10,7 +10,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-    <string name="enter_nutritional_ngoals">Enter Nutritional\nGoals</string>
+    <string name="enter_nutritional_ngoals">Enter your daily \nmeals</string>
     <string name="meal_name">Meal Name:</string>
     <string name="meal_name_description">Type any name e.g \"Day 1 Meal\" it should be unique</string>
     <string name="type">Type...</string>
@@ -27,7 +27,7 @@
     <string name="vitamin_intake">Vitamin Intake</string>
     <string name="vitamin_intake_description">Select the dominant Vitamin in your food?</string>
     <string name="insert">Insert</string>
-    <string name="view_nutritional_ngoals">View Nutritional\nGoals</string>
+    <string name="view_nutritional_ngoals">View your daily meals\nand delete by clicking</string>
     <string name="delete_items_in_nyour_nutritional_ngoals">Delete Items In\nYour Nutritional\nGoals</string>
     <string name="select_an_item_to_delete">Select an item to delete</string>
     <string name="add_a_nutrition_item_insert">Add a Nutrition Goal</string>

@@ -8,7 +8,7 @@
         android:id="@+id/textView27"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Welcome to FitBit"
+        android:text="Welcome to FitLife"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -16,6 +16,6 @@
         android:id="@+id/textView28"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This app is about managing your Fitness Nutrional Goals."
+        android:text="An application that  helps gym-goers and fitness enthusiasts track their dietary plans to achieve their fitness goals."
         android:textSize="16sp" />
 </LinearLayout>
